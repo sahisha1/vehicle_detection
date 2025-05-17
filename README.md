@@ -1,4 +1,4 @@
-# vehicle_detection
+# Vehicle_detection
 Real-Time Traffic and Air Quality Analysis System
 This project implements a real-time traffic analysis system using OpenCV to detect, classify, and count vehicles—cars, trucks, and two-wheelers—from live video feeds. It also estimates each vehicle type's contribution to local Air Quality Index (AQI) levels, providing valuable environmental insights.
 

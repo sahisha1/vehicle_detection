@@ -6,7 +6,15 @@ The system aims to support tech companies in making data-driven decisions about 
 
 By analyzing daily and monthly traffic data, this solution offers a scalable and practical approach to urban sustainability, promoting smarter city planning and environmental responsibility.
 
-Would you like me to help you draft a README file or add installation instructions?
+structure:
+your_project/
+├── app.py
+├── mains.py
+├── uploads/
+├── static/
+└── templates/
+    └── index.html
+
 
 
 
